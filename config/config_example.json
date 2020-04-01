@@ -1,0 +1,17 @@
+{
+    "details":{
+        "username":"",
+        "password":"",
+        "client_id":"",
+        "client_secret":"",
+        "user_agent":""
+    },
+    "other":{
+        "preprocessing_queue":[
+            "preprocessing.scale_and_center",
+            "preprocessing.dot_reduction",
+            "preprocessing.connect_lines"
+            ],
+        "use_anonymous":true
+    }
+}
